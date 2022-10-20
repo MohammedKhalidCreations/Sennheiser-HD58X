@@ -1,6 +1,7 @@
-Preamp: 9 dB
+# Preamp: 3 dB
+Include: My EQ.txt
 # Include: HD58x Sonarworks Flat.txt
 # Include: HD58x AutoEQ to Focal Elex.txt
-Include: HD58x Oratory1990 Optimum HIF.txt
+# Include: HD58x Oratory1990 Optimum HIF.txt
 # Include: HD58x Oratory1990 Harman.txt
 # Include: HD58x Oratory1990 Diffuse Field.txt

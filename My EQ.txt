@@ -1,0 +1,47 @@
+Preamp: -5 dB
+# My corrections
+Channel: L
+# GraphicEQ: 6500 0; 7000 -3.5; 7700 6.4; 8550 0
+# Filter: ON PK Fc 7000 Hz Gain -5 dB Q 6
+Channel: ALL
+Filter: ON HSC Fc 1000 Hz Gain 1 dB Q 0.71
+Filter: ON HSC Fc 5000 Hz Gain -1 dB Q 0.71
+Filter: ON PK Fc 4800 Hz Gain -9.2 dB Q 10
+# Filter: ON PK Fc 6000 Hz Gain -0.5 dB Q 10
+Preamp: 8.2 dB
+GraphicEQ: 20 -3.2; 21 -3.5; 22 -3.9; 23 -4.2; 24 -4.5; 26 -5.1; 27 -5.4; 29 -5.8; 30 -6; 32 -6.3; 34 -6.6; 36 -6.9; 38 -7.2; 40 -7.4; 43 -7.6; 45 -7.8; 48 -8; 50 -8; 53 -8; 56 -8; 59 -8.2; 63 -8.4; 66 -8.3; 70 -8.1; 74 -8.3; 78 -8.7; 83 -9.1; 87 -9.2; 92 -9.3; 97 -9.3; 103 -9.4; 109 -9.4; 115 -9.4; 121 -9.4; 128 -9.4; 136 -9.4; 143 -9.4; 151 -9.3; 160 -9.2; 169 -9.1; 178 -9.1; 188 -9; 199 -9; 210 -8.9; 222 -8.9; 235 -8.8; 248 -8.8; 262 -8.7; 277 -8.7; 292 -8.6; 309 -8.6; 326 -8.5; 345 -8.5; 364 -8.5; 385 -8.4; 406 -8.4; 429 -8.4; 453 -8.4; 479 -8.4; 506 -8.5; 534 -8.5; 565 -8.6; 596 -8.7; 630 -8.8; 665 -9; 703 -9.1; 743 -9.2; 784 -9.3; 829 -9.3; 875 -9.2; 924 -9.2; 977 -9.5
+Filter: ON PK Fc 9300 Hz Gain -5 dB Q 8
+# Filter: ON PK Fc 15230 Hz Gain 1.25 dB Q 25
+# Filter: ON PK Fc 10310 Hz Gain 0.5 dB Q 30
+# HD58X - Oratory1990 Optimum Hifi
+# Filter: ON LSC Fc 26 Hz Gain 6 dB Q 0.71
+# Filter: ON LSC Fc 105 Hz Gain -1 dB Q 0.71
+# Filter: ON PK Fc 160 Hz Gain -2.3 dB Q 0.5
+Filter: ON PK Fc 1300 Hz Gain -2.4 dB Q 1.5
+Filter: ON HSC Fc 1900 Hz Gain 4.5 dB Q 0.71
+Filter: ON PK Fc 3400 Hz Gain -3.2 dB Q 2
+Filter: ON PK Fc 5500 Hz Gain -6.7 dB Q 3.5
+Filter: ON HSC Fc 11000 Hz Gain -4 dB Q 0.71
+# Oluv - correction for the HD600 optimum hifi target by Oratory1990
+# Filter: ON PK Fc 80 Hz Gain -0.5 dB Q 1
+# Filter: ON PK Fc 220 Hz Gain 0.5 dB Q 1
+Filter: ON PK Fc 3500 Hz Gain -2 dB Q 5
+Filter: ON PK Fc 4000 Hz Gain -3 dB Q 3
+Filter: ON PK Fc 4885 Hz Gain -2 dB Q 5
+Filter: ON PK Fc 5200 Hz Gain -1 dB Q 7
+Filter: ON PK Fc 5550 Hz Gain 3 dB Q 7
+Filter: ON PK Fc 5710 Hz Gain 3.2 dB Q 5
+Filter: ON PK Fc 5900 Hz Gain -1.5 dB Q 5
+Filter: ON PK Fc 6500 Hz Gain -7 dB Q 5
+Filter: ON PK Fc 6900 Hz Gain 3.6 dB Q 0.7
+Filter: ON PK Fc 7500 Hz Gain -3 dB Q 10
+Filter: ON PK Fc 8500 Hz Gain -4 dB Q 8
+Filter: ON PK Fc 9100 Hz Gain -0.5 dB Q 5
+Filter: ON PK Fc 9500 Hz Gain -1 dB Q 5
+Filter: ON PK Fc 10000 Hz Gain -3 dB Q 10
+Filter: ON PK Fc 11600 Hz Gain -2.8 dB Q 3
+Filter: ON PK Fc 12450 Hz Gain -3 dB Q 10
+Filter: ON PK Fc 12765 Hz Gain -3 dB Q 10
+# mids correction
+# Filter: ON PK Fc 2650 Hz Gain 0.75 dB Q 0.5
+# Filter: ON PK Fc 2750 Hz Gain -1.5 dB Q 5

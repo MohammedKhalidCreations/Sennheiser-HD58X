@@ -1,7 +1,9 @@
-Preamp: -4.5 dB
+# Preamp: 0.4 dB
+Preamp: -1.64 dB
 Include: HD58x Oluv.txt
-Include: HD58x New Changes.txt
-Filter: ON LSC Fc 26 Hz Gain 6 dB Q 0.71
+# Include: HD58x New Changes.txt
+Include: C:\Program Files\EqualizerAPO\config\HD58x WIP Changes.txt
+Filter: ON LSC Fc 26 Hz Gain 5 dB Q 0.71
 Filter: ON LSC Fc 105 Hz Gain -1.5 dB Q 0.71
 Filter: ON PK Fc 160 Hz Gain -2.3 dB Q 0.5
 Filter: ON PK Fc 1300 Hz Gain -2.4 dB Q 1.5
